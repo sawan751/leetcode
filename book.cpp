@@ -15,7 +15,6 @@ bool isvalid(int arr[],int mid,int n, int m){
             }
         }
     }
-    if (students>m) ? -1:false;
 }
 
 int main(){
