@@ -10,11 +10,12 @@ bool isvalid(int arr[],int mid,int n, int m){
         }
         else{
             students++;
-            if(students>m || arr[i]>mid){
+            if(arr[i]>mid){
                 return false;
             }
         }
     }
+    if (students>m) ? -1:false;
 }
 
 int main(){
