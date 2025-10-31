@@ -2,7 +2,7 @@
 #include <vector>
 #include <iostream>
 using namespace std;
-bool isPossible(vector<int>& wall,int painters,int n, int maxload){
+bool isPossible(int wall[],int painters,int n, int maxload){
     int reqpainters= 1;
     int currentsum=0;
     for(int i=0;i<n;i++){
@@ -21,8 +21,8 @@ bool isPossible(vector<int>& wall,int painters,int n, int maxload){
 }
 
 int main() {
-    vector<int> wall = {40,30,20,10}; 
-    int n = wall.size();
+    int  wall[] = {40,30,20,10}; 
+    int n = sizeof(wall)/sizeof(wall[0]);
     int st= 0;
     int end = 0;
     int ans = -1;
