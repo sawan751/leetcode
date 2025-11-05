@@ -18,9 +18,8 @@ public:
         reverse(words.begin(), words.end());
         
         for (int i = 0; i < words.size(); i++) {
-            ans += words[i];
-            if (i != words.size() - 1) ans += " ";
+            ans += ' ' + words[i];
         }
-        return ans;
+        return ans.substr(1);
     }
 };
