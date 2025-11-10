@@ -8,9 +8,7 @@ class Solution(object):
         j = len(height)-1
         maxf = 0
         while(i<j):
-            h = min(height[i],height[j])
-            w = j-i
-            area = h*w
+            area = min(height[i],height[j])*(j-i)
             maxf = max(area,maxf)
 
             if(height[i]<height[j]):
