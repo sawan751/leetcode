@@ -15,4 +15,8 @@ Solving DSA problems from leetcode
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/sawan751/leetcode/tree/master/0342-power-of-four) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/sawan751/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
