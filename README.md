@@ -22,6 +22,7 @@ Solving DSA problems from leetcode
 ## Array
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sawan751/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sawan751/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sawan751/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sawan751/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -41,6 +42,7 @@ Solving DSA problems from leetcode
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sawan751/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sawan751/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sawan751/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sawan751/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -48,4 +50,8 @@ Solving DSA problems from leetcode
 |  |
 | ------- |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sawan751/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sawan751/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
