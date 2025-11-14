@@ -22,6 +22,7 @@ Solving DSA problems from leetcode
 ## Array
 |  |
 | ------- |
+| [1677-matrix-diagonal-sum](https://github.com/sawan751/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sawan751/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
@@ -35,4 +36,8 @@ Solving DSA problems from leetcode
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sawan751/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/sawan751/leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
