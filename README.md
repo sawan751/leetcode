@@ -25,6 +25,7 @@ Solving DSA problems from leetcode
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sawan751/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sawan751/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sawan751/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/sawan751/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sawan751/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sawan751/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
@@ -45,6 +46,7 @@ Solving DSA problems from leetcode
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sawan751/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sawan751/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sawan751/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/sawan751/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sawan751/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
