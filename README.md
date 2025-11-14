@@ -22,6 +22,7 @@ Solving DSA problems from leetcode
 ## Array
 |  |
 | ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/sawan751/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sawan751/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sawan751/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sawan751/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -40,6 +41,7 @@ Solving DSA problems from leetcode
 ## Matrix
 |  |
 | ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/sawan751/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sawan751/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sawan751/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
