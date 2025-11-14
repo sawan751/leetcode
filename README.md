@@ -23,6 +23,7 @@ Solving DSA problems from leetcode
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/sawan751/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sawan751/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sawan751/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
@@ -40,4 +41,9 @@ Solving DSA problems from leetcode
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/sawan751/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sawan751/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sawan751/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
