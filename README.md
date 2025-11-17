@@ -22,6 +22,7 @@ Solving DSA problems from leetcode
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/sawan751/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sawan751/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sawan751/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sawan751/leetcode/tree/master/1677-matrix-diagonal-sum) |
