@@ -10,6 +10,7 @@ Solving DSA problems from leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sawan751/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sawan751/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -22,6 +23,7 @@ Solving DSA problems from leetcode
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sawan751/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/sawan751/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sawan751/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sawan751/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -32,6 +34,7 @@ Solving DSA problems from leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sawan751/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sawan751/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
@@ -56,5 +59,6 @@ Solving DSA problems from leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sawan751/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sawan751/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
