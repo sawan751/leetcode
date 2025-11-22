@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
-        unordered_map<int,int> freq;
+        unordered_set<int> freq;
         int n = grid.size();
         int total = n*n;
         int actsum = 0;
