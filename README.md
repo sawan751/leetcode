@@ -6,6 +6,7 @@ Solving DSA problems from leetcode
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/sawan751/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sawan751/leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -15,6 +16,7 @@ Solving DSA problems from leetcode
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/sawan751/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sawan751/leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
