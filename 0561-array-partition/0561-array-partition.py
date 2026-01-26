@@ -4,6 +4,6 @@ class Solution:
         s = 0
         i = 1
         while(i<len(nums)):
-            s += min(nums[i],nums[i-1])
+            s += nums[i-1]
             i+=2
         return s
