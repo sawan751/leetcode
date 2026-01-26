@@ -8,8 +8,7 @@ public:
        int diff = arr[1] -arr[0];
        for(int i = 1;i<n;i++){
         int small = arr[i]-arr[i-1];
-        if(small<diff){
-            diff = small;
+        diff = min(small,diff);
         }
        } 
        // storing minimum pairs
