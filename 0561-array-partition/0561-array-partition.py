@@ -3,7 +3,6 @@ class Solution:
         nums = sorted(nums)
         s = 0
         i = 1
-        while(i<len(nums)):
-            s += nums[i-1]
-            i+=2
+        for i in range(0,len(nums),2):
+            s += nums[i]
         return s
