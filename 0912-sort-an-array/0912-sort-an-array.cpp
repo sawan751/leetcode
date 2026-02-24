@@ -35,7 +35,7 @@ public:
     }
     vector<int> sortArray(vector<int>& nums) {
 
-        splitmid(nums, 0, nums.size() - 1);
+        sort(nums.begin(), nums.end());
         return nums;
     }
 };
