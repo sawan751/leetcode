@@ -14,13 +14,14 @@ public:
                 c[j]++;}
             }
         }
+        /*
         for(int i = 0;i<row;i++){
             cout<<"row "<<r[i];
         }
         cout<<endl;
         for(int i = 0;i<col;i++){
             cout<<"col "<<c[i];
-        }
+        }*/
         int count = 0;
         for(int i = 0;i<row;i++){
             for(int j = 0; j<col;j++){
