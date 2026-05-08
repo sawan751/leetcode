@@ -16,7 +16,6 @@ public:
             }
         }
 
-        // now time to rotate the matrix
         vector<vector<char>> ans(n, vector<char>(m));
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
