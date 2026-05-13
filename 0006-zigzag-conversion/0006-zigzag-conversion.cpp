@@ -12,6 +12,7 @@ public:
         for(char c : s) {
 
             rows[currRows] += c;
+            //cout<<currRows<<" "<< rows[currRows]<<endl;
 
             if(currRows == 0)
                 dir = 1;
